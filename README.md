@@ -1,4 +1,4 @@
-# 🎮 Project 6 – Video Game Market Analysis (2000–2016)
+# Video Game Market Analysis (2000–2016)
 
 **Objective**
 Analyze historical video game sales data to understand market dynamics and inform future strategies by:
